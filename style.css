@@ -6,7 +6,7 @@ h1{
     font-size: 30px;
 }
 h2{
-    font-size: 40px;
+    font-size: 30px;
 }
 p{
     color: dimgray;
@@ -45,7 +45,7 @@ section{
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 70%;
+    height: 60%;
 }
 .experience{
     background-image: url("images/exp-bg.png");
@@ -64,4 +64,7 @@ section{
 }
 footer{
     text-align: center;
+}
+#exp{
+    margin-left: 4.75%;
 }
